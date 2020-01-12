@@ -1,6 +1,7 @@
 # Image_Classification_CNN
-Image classifier build using Tensorflow
-Convolution Neural Network is good for Image Classification because in this type of Neural netwok a particular Neuron of a particular is Connected to the small portion of the layer before it.
+Image classifier build using Tensorflow.
+
+Convolution Neural Network is good for Image Classification because in this type of Neural network a Neuron of a particular layer is Connected to the small portion of the layer before it.
 
 The Entire Process consist of some steps->
 1. The Image is converted into a 3D matrix.
