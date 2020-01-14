@@ -5,7 +5,7 @@ Convolution Neural Network is good for Image Classification because in this type
 Another reason as to why we can not use Fully Conneted network is that it will require large number of Neurons and ultimately it will lead to overfitting.
 
 CNN compares the Images piece by piece these pieces are called features.Now, we take these featues and match it with the entire images.
-If it is Matches then that particular image is correct.
+If it is Matched then that particular image is correct.
 
 
 The Entire Process consist of some steps->
