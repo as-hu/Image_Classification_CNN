@@ -1,6 +1,6 @@
 # Image_Classification_CNN
 Image classifier build using Tensorflow.
-
+Image classification is the process of taking an input (like a picture) and outputting a class (like “cat”) or a probability that the input is a particular class (“there’s a 90% probability that this input is a cat”).
 Convolution Neural Network is good for Image Classification because in this type of Neural network a Neuron of a particular layer is Connected to the small portion of the layer before it.
 Another reason as to why we can not use Fully Conneted network is that it will require large number of Neurons and ultimately it will lead to overfitting.
 
